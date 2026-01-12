@@ -61,7 +61,7 @@ export default function App() {
     ];
 
     return (
-        <div className="container w-100">
+        <div className="container">
             <div className="row justify-content-center">
 
                 <div className="col-6 bg-light">
